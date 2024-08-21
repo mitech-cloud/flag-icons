@@ -2396,5 +2396,13 @@
     "flag_4x3": "flags/4x3/zw.svg",
     "iso": true,
     "name": "Zimbabwe"
+  },
+  {
+    "capital": "Where",
+    "code": "uc",
+    "flag_1x1": "flags/1x1/uc.svg",
+    "flag_4x3": "flags/4x3/uc.svg",
+    "iso": true,
+    "name": "Universal Country"
   }
 ]

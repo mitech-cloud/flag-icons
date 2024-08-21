@@ -2,7 +2,9 @@
   @each $country in $flag-icons-included-countries {
     @include flag-icon($country);
   }
-} @else {
+}
+
+@else {
   // Keep xx first as it is often used as fallback
   @include flag-icon(xx);
 
@@ -275,6 +277,7 @@
   @include flag-icon(sh-ac);
   @include flag-icon(sh-hl);
   @include flag-icon(sh-ta);
+  @include flag-icon(uc);
   @include flag-icon(un);
   @include flag-icon(xk);
 }
